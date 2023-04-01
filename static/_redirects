@@ -1,0 +1,3 @@
+[[redirects]]
+  /geolocation-serp/*  https://geolocation-serp.netlify.app/geolocation-serp/:splat 200
+  /to-google-search-from-any-location/ https://obscurious.xyz/ways-to-google-search-from-any-location/:splat 200
