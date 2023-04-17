@@ -8,8 +8,8 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-    siteTitle: `Obscurious - A Broadly SEO-Related Personal Blog by Harleen`,
-    siteTitleAlt: `Obscurious - A Broadly SEO-Related Personal Blog by Harleen`,
+    siteTitle: `Obscurious - A Broadly SEO-Related Personal Blog`,
+    siteTitleAlt: `Obscurious - A Broadly SEO-Related Personal Blog`,
     siteHeadline: `Obscurious`,
     siteUrl: `https://obscurious.xyz`,
     siteDescription: `Obscurious`,
