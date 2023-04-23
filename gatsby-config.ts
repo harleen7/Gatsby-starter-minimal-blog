@@ -28,6 +28,10 @@ const config: GatsbyConfig = {
             title: `About`,
             slug: `/about`,
           },
+          {
+            title: `Local SERP Checker`,
+            slug: `/geolocation-serp`,
+          },
         ],
         externalLinks: [
           {
