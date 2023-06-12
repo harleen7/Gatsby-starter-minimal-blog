@@ -13,10 +13,10 @@ There are scenarios where your server blocks any requests made by bots. In those
 
 In such a case, creating a custom formula in Google sheets for checking HTTP status codes can come to the rescue. Google Sheets is able to check the status codes without getting blocked out by the server is because it will use your IP, hopefully which will not be blocked.
 
-This need only a couple of steps:
+## Steps to check Status Codes in Google Sheets
 1. Open AppScript in Google Sheets and Paste the following code
 
-## Javascript Code for Status Codes in Google Sheets
+**Javascript Code for Status Codes in Google Sheets
 ```
 function statusCode (url){
 
