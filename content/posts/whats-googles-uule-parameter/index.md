@@ -1,6 +1,6 @@
 ---
 title: What's UULE Parameter?
-date: "2022-07-29T22:16:13.284Z"
+date: "2023-07-29T22:16:13.284Z"
 description: "The uule paramter is the parameter often used in various google serp location changer tools. Learn more about it here!"
 ---
 
