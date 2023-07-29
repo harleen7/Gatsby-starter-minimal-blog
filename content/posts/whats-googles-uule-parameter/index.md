@@ -24,7 +24,7 @@ Suppose you want to search for "restaurants" in the city of "New York" and prefe
 [https://www.google.com/search?q=restaurants&uule=w+CAIQICIITmV3IFlvcms](https://www.google.com/search?q=restaurants&uule=w+CAIQICIITmV3IFlvcms)
 
 In this example, "w+CAIQICINVW5pdGVkIFlvcms" is the uule representation of the location "New York, USA." It consists of 3 things:
-1. A fixed paramter which is w+CAIQI
+1. A fixed paramter which is w+CAIQICI
 2. The length of the string called New York
 3. The base-64 encoded city name. 
 
