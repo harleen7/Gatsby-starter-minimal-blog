@@ -4,9 +4,6 @@ date: "2023-07-29T22:16:13.284Z"
 description: "The uule paramter is the parameter often used in various google serp location changer tools. Learn more about it here!"
 ---
 
-
-# Explainer on Google's uule Parameter
-
 The "uule" parameter is a special query parameter used in Google search URLs. It is primarily employed to encode the geographic location and language settings for the search query, enabling Google to return more relevant and localized search results.
 
 ## Purpose of the uule Parameter in Google SERP
@@ -23,11 +20,9 @@ Here's a simplified example of how the "uule" parameter works:
 
 Suppose you want to search for "restaurants" in the city of "New York" and prefer to see the results as if you were conducting the search from "New York, USA." You can construct the Google search URL with the "uule" parameter as follows:
 
-```markdown
 
 [https://www.google.com/search?q=restaurants&uule=w+CAIQICIITmV3IFlvcms](https://www.google.com/search?q=restaurants&uule=w+CAIQICIITmV3IFlvcms)
 
-```
 In this example, "w+CAIQICINVW5pdGVkIFlvcms" is the uule representation of the location "New York, USA." It consists of 3 things:
 1. A fixed paramter which is w+CAIQI
 2. The length of the string called New York
